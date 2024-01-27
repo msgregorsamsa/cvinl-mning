@@ -97,4 +97,15 @@
             flex-direction: column;
             justify-content: initial;
         }
+
+        .experiencelist {
+            margin-right: auto;
+            margin-left: auto;
+        }
+
+        .experience>section {
+            flex: 1;
+            max-width: 80%;
+            box-sizing: border-box;
+        }
     }
